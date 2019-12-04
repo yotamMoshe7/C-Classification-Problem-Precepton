@@ -1,5 +1,5 @@
 # Classification Problem Precepton
- implementation of binary classification problem using parallel computing with Cuda, OpenMP and MPI.
+ Implementation of binary classification problem using parallel computing with Cuda, OpenMP and MPI.
  The classification result must be smaller than the predefined QC variable.
  
  Parallel Solution
